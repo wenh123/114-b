@@ -10,4 +10,4 @@
 座右銘: *今日事今日畢*
 
 [Google](http://www.google.com)
-![google](googlelogo_light_color_272x92dp.png)
+![google](nkust.png)
