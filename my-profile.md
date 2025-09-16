@@ -11,3 +11,5 @@
 
 [Google](http://www.google.com)
 ![google](nkust.png)
+
+```你喜歡的名言或你的人生哲學```
